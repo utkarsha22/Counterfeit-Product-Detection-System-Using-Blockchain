@@ -1,0 +1,6 @@
+username,password,id,role
+admin,admin,1,admin
+supp,supp,2,supplier
+retailer,retailer,3,retailer
+manu,manu,4,manufacturer
+temp,temp,12,supplier
